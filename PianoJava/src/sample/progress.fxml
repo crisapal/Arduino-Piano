@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane prefHeight="550.0" prefWidth="425.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.ProgressController">
+   <children>
+      <ImageView fx:id="backgroundView" fitHeight="575.0" fitWidth="425.0" layoutY="-11.0">
+         <image>
+            <Image url="@../../Assets/340434.png" />
+         </image>
+      </ImageView>
+      <Label fx:id="songNameLabel" alignment="CENTER" layoutX="95.0" layoutY="94.0" prefHeight="40.0" prefWidth="235.0" style="-fx-alignme: center;" text=" Song" textAlignment="CENTER" textFill="#080808">
+         <font>
+            <Font name="Avenir Book" size="28.0" />
+         </font>
+      </Label>
+      <ImageView fx:id="logoView" fitHeight="25.0" fitWidth="33.0" layoutX="70.0" layoutY="28.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../Assets/logo.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="backView" fitHeight="40.0" fitWidth="33.0" layoutX="30.0" layoutY="24.0" onMouseClicked="#backOnAction" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../Assets/back.png" />
+         </image>
+      </ImageView>
+      <Text fx:id="goodNotesText" layoutX="66.0" layoutY="215.0" strokeType="OUTSIDE" strokeWidth="0.0" text="good notes" textAlignment="CENTER" wrappingWidth="294.1787109375" />
+      <ProgressBar fx:id="progressBar" layoutX="149.0" layoutY="369.0" prefHeight="20.0" prefWidth="133.0" progress="0.0" />
+      <Text fx:id="yourNotesText" layoutX="183.0" layoutY="327.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Your notes" />
+      <Label fx:id="goodNotesLabel" layoutX="166.0" layoutY="166.0" text="Good notes">
+         <font>
+            <Font name="Avenir Book" size="17.0" />
+         </font>
+      </Label>
+      <Label fx:id="yourNotesLabel" layoutX="172.0" layoutY="281.0" text="Your notes">
+         <font>
+            <Font name="Avenir Book" size="17.0" />
+         </font>
+      </Label>
+      <Label fx:id="scoreLabel" layoutX="172.0" layoutY="400.0" text="Your score">
+         <font>
+            <Font name="Avenir Book" size="17.0" />
+         </font>
+      </Label>
+      <Label fx:id="score" layoutX="192.0" layoutY="431.0" text="100%">
+         <font>
+            <Font name="Avenir Next Bold" size="17.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
