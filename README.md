@@ -1,8 +1,8 @@
 # Arduino-Piano
-Arduino- I2C - Master Slave 
-In order to understand how powerful a microcontroller could be, I tried to develop a mini-piano using 2 arduino (mega 2560 and UNO).
 
-STEPS:
+This piano app is designed for all those of you who are keen into developing a musical skills through electronic devices on a low budget.
 
-1. Building the piano with 8 buttons and a buzzer
-2. Trying to practice Master-Slave connection between my Arduino devices
+This project is devided in 2 main sides:
+1. Software side - designed with the modern and flexible JavaFX.
+
+2. Hardware side - working with Arduino Mega 2560.
