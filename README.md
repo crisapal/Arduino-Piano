@@ -8,3 +8,4 @@ This project is devided in 2 main sides:
 2. Hardware side - working with Arduino Mega 2560.
 
 A video explaining the entire flow of the project is now available on Youtube ( romanian language)
+https://www.youtube.com/watch?v=3JIVEcr7uBw&feature=youtu.be&ab_channel=CristinaPalamaru
