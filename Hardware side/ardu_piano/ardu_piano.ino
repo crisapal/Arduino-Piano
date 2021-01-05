@@ -2,7 +2,7 @@
 
 
 LiquidCrystal_I2C lcd(0x27, 16, 2); // I2C address 0x27, 16 column and 2 rows
-//setare frecventa pinuri
+// keys frequenqy
 #define T_DO1 261
 #define T_RE 293
 #define T_MI 329
