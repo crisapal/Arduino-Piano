@@ -6,3 +6,5 @@ This project is devided in 2 main sides:
 1. Software side - designed with the modern and flexible JavaFX.
 
 2. Hardware side - working with Arduino Mega 2560.
+
+A video explaining the entire flow of the project is now available on Youtube ( romanian language)
