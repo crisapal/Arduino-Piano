@@ -9,3 +9,5 @@ This project is devided in 2 main sides:
 
 A video explaining the entire flow of the project is now available on Youtube ( romanian language)
 https://www.youtube.com/watch?v=3JIVEcr7uBw&feature=youtu.be&ab_channel=CristinaPalamaru
+For the code implementation, there is available another video:
+https://www.youtube.com/watch?v=kVj7brXl6Mk&list=PLQTUCgHV2I-gmCR9YE5MF3oVj7XbY8d8q&index=2&ab_channel=CristinaPalamaru
