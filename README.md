@@ -5,7 +5,6 @@ This piano app is designed for all those of you who are keen into developing a m
 This project is devided in 2 main sides:
 1. Software side - designed with the modern and flexible JavaFX.
 
-![Board](https://github.com/crisapal/Arduino-Piano/blob/main/Project%20assets/arduino-piano.png)
 
 
 
@@ -20,3 +19,5 @@ https://www.youtube.com/watch?v=kVj7brXl6Mk&list=PLQTUCgHV2I-gmCR9YE5MF3oVj7XbY8
 
 An english presentation is going to be uploaded soon:
 https://www.youtube.com/watch?v=Wqvk7iqbRUM&list=PLQTUCgHV2I-gmCR9YE5MF3oVj7XbY8d8q&index=3&t=5s
+
+![Board](https://github.com/crisapal/Arduino-Piano/blob/main/Project%20assets/arduino-piano.png)
