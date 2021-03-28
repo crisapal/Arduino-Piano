@@ -5,6 +5,8 @@ This piano app is designed for all those of you who are keen into developing a m
 This project is devided in 2 main sides:
 1. Software side - designed with the modern and flexible JavaFX.
 
+![Board](https://github.com/crisapal/Arduino-Piano/blob/main/Project%20assets/arduino-piano.png)
+
 
 
 2. Hardware side - working with Arduino Mega 2560.
